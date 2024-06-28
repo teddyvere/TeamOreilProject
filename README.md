@@ -10,7 +10,7 @@ In this project your team will build a small app to function as a calculator. Th
 
 Your team should work on this project in a single repository. Click the `fork` button in the top right corner to create a copy of this repository in one of your github accounts. You can go through the [GitHub forking tutorial](https://help.github.com/articles/fork-a-repo/) if you need additional practice with this.
 
-Then, each of the other team members should clone from the shared repository. You may want to dived the work into various classes, where each person takes responsibility for a whole class. 
+Then, each of the other team members should clone from the shared repository. You may want to divide the work into various classes, where each person takes responsibility for a whole class.  A good way to split up the work can be is 1) base calculator, 2) scientiific calculator, & 3) unit tests of 1 and 2.
 
 ## Requirements
 
