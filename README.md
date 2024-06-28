@@ -2,6 +2,8 @@
 
 **THIS IS A GROUP PROJECT. Do Not start it on your own.**
 
+**Especially made for Java10.1**
+
 ## Description
 
 In this project your team will build a small app to function as a calculator. This app  will be built in Java, and will use the topics and techniques discussed during the week.
@@ -88,4 +90,4 @@ The following functions should take the displayed value (x) and updated it accor
 
 ## Submission
 
-Completed projects should be submitted by submitting a pull request against the [original repository](https://github.com/Zipcoder/ScientificCalculator.Maven). All work should be done in your team's repository.
+Completed projects should be submitted by submitting a pull request against the [original repository](https://github.com/ZCW-J101D51/ScientificCalculator). All work should be done in your team's repository.
