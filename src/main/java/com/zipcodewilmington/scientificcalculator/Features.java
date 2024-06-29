@@ -39,7 +39,7 @@ public class Features {
 
     }
 
-    public int theAnswer() {
+    public int theAnswer(int value1, String operator, int value2) {
         if (operator.equals("*")) {
             answer = value1 * value2;
         } else if (operator.equals("/")) {
@@ -48,7 +48,6 @@ public class Features {
             answer = value1 + value2;
         } else if (operator.equals("-")) {
             answer = value1 - value2;
-
         }
         return answer;
     }
