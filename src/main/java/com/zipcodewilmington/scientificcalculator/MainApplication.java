@@ -13,7 +13,7 @@ public class MainApplication {
         Console.println("The user input %s as a string", s);
         Console.println("The user input %s as a integer", i);
         Console.println("The user input %s as a d", d);
-        Features Start = new Features
-        Start.theAnswer()
+        Features Start = new Features();
+        Start.theAnswer();
     }
 }
